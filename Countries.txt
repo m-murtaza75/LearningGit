@@ -2,8 +2,9 @@ Pakistan X 4 -- add another Pakistan
 Ireland_NorthernIreland_Iceland
 England_Scotland_Whales
 Iceland_444
-Germany_Holand
+Germany_Holand_Spain
 Egypt
 China
 Iran
 United States of America
+Afghanistan
