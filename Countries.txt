@@ -1,5 +1,5 @@
-Pakistan_Pakistan
-Ireland
+Pakistan_Pakistan_Pakistan
+Ireland_NorthernIreland
 England_Scotland_Whales
 Iceland_444
 Germany
