@@ -1,6 +1,6 @@
-Pakistan_123
+Pakistan_Pakistan
 Ireland
-England
+England_Scotland_Whales
 Iceland_444
 Germany
 Egypt
